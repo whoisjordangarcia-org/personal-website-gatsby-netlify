@@ -25,7 +25,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "gatsby": "^4.8.0",
+    "gatsby": "^4.25.9",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-google-gtag": "^4.8.0",
@@ -41,8 +41,8 @@
     "gatsby-transformer-remark": "^5.8.0",
     "gatsby-transformer-sharp": "^4.8.0",
     "gsap": "^3.2.6",
-    "imagemin-pngquant": "^8.0.0",
-    "pngquant-bin": "^5.0.2",
+    "imagemin-pngquant": "^10.0.0",
+    "pngquant-bin": "^9.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0"
